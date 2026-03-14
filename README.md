@@ -55,4 +55,4 @@ The project generates:
 Dataset used: Kaggle House Prices dataset.
 
 ## Author
-Your Name
+JASNA LIRAR
